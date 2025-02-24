@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Welcome to my GitHub Profile!
+
+![Profile Views](https://profile-counter.glitch.me/2022lcl/count.svg)
+
 <!--
 **2022lcl/2022lcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
